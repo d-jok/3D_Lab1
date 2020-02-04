@@ -1,0 +1,6 @@
+﻿  GLWindow.cpp
+d:\програмы\amc course\lab1\lab1\glwindow.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab1\lab1\glwindow.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab1\lab1\glwindow.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab1\lab1\glwindow.h(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab1\lab1\glwindow.cpp(7): error C2059: синтаксическая ошибка: &
